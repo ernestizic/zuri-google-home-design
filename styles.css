@@ -78,8 +78,12 @@ p{
 .footer2 {
     background-color: #f0f0f0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     border-top: 1px solid #b4b4b4;
+    padding: 9px;
+}
+.footer2 a{
+    color: grey;
 }
 .footer2 .first ul{
     list-style-type: none;
